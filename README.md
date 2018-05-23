@@ -1,1 +1,0 @@
-# GSBSymfony2.7
